@@ -1,4 +1,5 @@
 # Arc Scanner (Windows)
+**Not affiliated with Embark Studios. Arc Raiders is a trademark of Embark Studios.**
 
 ![Arc Scanner overlay preview](hero-loot-preview.png)
 
