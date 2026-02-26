@@ -32,7 +32,7 @@ Use the installers in `releases/`:
 
 ## Default Hotkeys
 
-- Start Icon Scan: `Shift+F`
+- Start Icon Scan: `Ctrl+F`
 - Toggle Overlay: `Ctrl+Shift+O`
 - Show / Hide Window: `Ctrl+Shift+M`
 - Pause / Resume Scans: not set by default
