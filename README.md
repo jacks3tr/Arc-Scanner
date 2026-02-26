@@ -5,7 +5,7 @@
 
 Arc Scanner is a desktop companion app that scans item icons and shows value guidance in an in-game overlay.
 
-![Arc Scanner overlay preview](hero-loot-preview2.png)
+![Arc Scanner overlay preview](hero-loot-preview2.png) 
 
 (Image shown is fancy tooltip in settings)
 
