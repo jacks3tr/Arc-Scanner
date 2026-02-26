@@ -63,3 +63,5 @@ Arc Scanner is designed as an external tool:
 ## Contributing
 
 If you want to help this project, contribute to https://github.com/RaidTheory/arcraiders-data.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K41UDHC1)
