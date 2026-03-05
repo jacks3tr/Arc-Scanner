@@ -1,8 +1,15 @@
-# Arc Scanner (Windows)
+# Arc Scanner 
+(Windows)
 
-![Arc Scanner overlay preview](hero-loot-preview.png)
+**Not affiliated with Embark Studios. Arc Raiders is a trademark of Embark Studios.**
 
 Arc Scanner is a desktop companion app that scans item icons and shows value guidance in an in-game overlay.
+
+![Arc Scanner overlay preview](hero-loot-preview2.png)
+
+(Image shown is fancy tooltip in settings)
+
+
 
 ## Who This Is For
 
@@ -32,7 +39,7 @@ Use the installers in `releases/`:
 
 ## Default Hotkeys
 
-- Start Icon Scan: `Shift+F`
+- Start Icon Scan: `Ctrl+F`
 - Toggle Overlay: `Ctrl+Shift+O`
 - Show / Hide Window: `Ctrl+Shift+M`
 - Pause / Resume Scans: not set by default
@@ -63,3 +70,8 @@ Arc Scanner is designed as an external tool:
 ## Contributing
 
 If you want to help this project, contribute to https://github.com/RaidTheory/arcraiders-data.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K41UDHC1)
+
+![Arc Scanner overlay preview](hero-loot-preview.png)
+(regular tooltip shown)
