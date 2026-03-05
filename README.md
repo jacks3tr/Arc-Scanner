@@ -59,3 +59,7 @@ Arc Scanner is designed as an external tool:
 ## Project Page
 
 - https://arc-scanner.com/
+
+## Contributing
+
+If you want to help this project, contribute to https://github.com/RaidTheory/arcraiders-data.
